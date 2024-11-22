@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          target_branch: master
+          target_branch: web
