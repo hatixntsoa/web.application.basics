@@ -1,0 +1,7 @@
+[book]
+authors = ["Hatix Ntsoa"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Web Application Basics"
+CTTO = "TryHackMe - https://tryhackme.com/r/room/webapplicationbasics"
