@@ -42,9 +42,18 @@ To run this book locally, you need to have **Rust** installed along with **Cargo
 
 ## Running the Book Locally
 
-To serve the book locally and view it in your browser, follow these steps:
+Clone this repository:  
+```bash
+git clone https://github.com/h471x/web_application_basics.git
+```
 
-1. Open your terminal and navigate to the project directory.
+Then, follow these steps:
+
+1. Navigate to the project directory:  
+   ```bash
+   cd web_application_basics
+   ```
+
 2. Run the following command to serve the book:  
    ```bash
    mdbook serve --open
