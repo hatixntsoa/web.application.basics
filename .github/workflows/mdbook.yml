@@ -59,4 +59,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
+          # Trigger deploy
           target_branch: web
