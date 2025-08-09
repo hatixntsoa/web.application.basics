@@ -44,7 +44,7 @@ To run this book locally, you need to have **Rust** installed along with **Cargo
 
 Clone this repository:  
 ```bash
-git clone https://github.com/h471x/web_application_basics.git
+git clone https://github.com/hatixntsoa/web_application_basics.git
 ```
 
 Then, follow these steps:
