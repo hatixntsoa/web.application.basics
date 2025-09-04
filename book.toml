@@ -8,4 +8,4 @@ CTTO = "TryHackMe - https://tryhackme.com/r/room/webapplicationbasics"
 
 [output.html]
 # Set the base URL for GitHub Pages to resolve relative paths properly
-site-url = "https://h471x.github.io/web_application_basics"
+site-url = "https://hatixntsoa.github.io/web.application.basics"
